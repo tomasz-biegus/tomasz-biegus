@@ -1,4 +1,4 @@
-##💻 Hi there, I'm Tomek 💻
+💻 Hi there, I'm Tomek 💻
 
 # 💫 About Me:
 I have been passionate about IT since primary school and am now looking to take my skills to the professional stage.
