@@ -1,4 +1,4 @@
-############### 💻 Hi there, I'm Tomek 💻
+##                    💻 Hi there, I'm Tomek 💻
 
 <!--
 **tomasz-biegus/tomasz-biegus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
