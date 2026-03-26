@@ -3,7 +3,7 @@
 # 💫 About Me:
 I have been passionate about IT since primary school and am now looking to take my skills to the professional stage.
 
-Education: Second-year Computer Science student with a strong technical background.
+Education: Second-year Computer Science student with a technical background.
 Passion: Video games and art, which reflect my interest in interactive logic and clean design.
 Goal: To join a forward-thinking IT company where I can work on real-world challenges and grow alongside experienced professionals.
 
